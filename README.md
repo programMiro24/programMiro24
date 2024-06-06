@@ -6,5 +6,7 @@ me = Developer(
     additional_skills=['HTML & CSS'], ide=['PyCharm']
 )
 ```
-
+```
+  - I have interess in to programming
+```
 ---
