@@ -7,6 +7,6 @@ me = Developer(
 )
 ```
 ```
-  - I have interess in to programming
+  I have interess in to programming
 ```
 ---
