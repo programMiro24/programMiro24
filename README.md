@@ -2,7 +2,7 @@ Hi there 👋, **Python Enthusiast** 🐍 here!
 
 ```
 me = Developer(  
-    name='Miroslav', main_skills=['Python', 'C++'],  
+    name='Miroslav', main_skills=['Python', 'C++'],  ide=[PyCharm , CodeBlocks] 
     additional_skills=['HTML & CSS']
 )
 ```
