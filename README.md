@@ -4,7 +4,7 @@ Hi there 👋, **Python and C++ Enthusiast** 🐍 here!
 
 ```
 me = Developer(  
-    name='Miroslav', main_skills=['Python', 'C++'],  ide=['PyCharm' , 'CodeBlocks'] 
+    name='Miroslav', main_skills=['Python', 'C++', 'JavaScript'],  ide=['PyCharm' , 'CodeBlocks', 'Visual Studio Code'] 
     additional_skills=['HTML & CSS']
 )
 ```
