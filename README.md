@@ -17,4 +17,7 @@ me = Developer(
 
 <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=programMiro24&column=7" alt="programMiro24's GitHub Trophies" /></a>
 
+### Technology
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css)](https://skillicons.dev)
+
 
