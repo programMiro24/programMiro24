@@ -21,6 +21,6 @@ me = Developer(
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css)](https://skillicons.dev)
 
 ## IDE
-[![IDE](https://skillicons.dev/icons?i=pycharm,codeblocks,vsc)](https://skillicons.dev)
+[![IDE](https://skillicons.dev/icons?i=pycharm,vscode)](https://skillicons.dev)
 
 
